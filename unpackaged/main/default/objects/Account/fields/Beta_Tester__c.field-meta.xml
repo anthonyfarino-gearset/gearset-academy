@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Beta_Tester__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Is the user tied with this account a beta tester?</description>
+    <externalId>false</externalId>
+    <label>Beta Tester</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>
